@@ -20,7 +20,7 @@ Four configurations were analyzed theoretically and simulated in LTspice. The st
 
 ![Fourth configuration](phase-1-differential-amplifiers/figures/04-bias-current-mirror.png)
 
-[Original Phase 1 report (DOCX)](phase-1-differential-amplifiers/reports/report.pdf) · [Handwritten circuit analysis (PDF)](phase-1-differential-amplifiers/reports/handwritten-analysis.pdf)
+[Original Phase 1 report (PDF)](phase-1-differential-amplifiers/reports/report.pdf) · [Handwritten circuit analysis (PDF)](phase-1-differential-amplifiers/reports/handwritten-analysis.pdf)
 
 ## Phase 2 — Power amplifier and folded-cascode redesign
 
